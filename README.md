@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://i.ibb.co/sWL3srG/Cyber-Nodes.gif" width="300" height="100"/>
+</div>
+
 
 <!--
 **Cyb3rNodes/Cyb3rNodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
